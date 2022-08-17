@@ -1,3 +1,8 @@
 book story
 page 2 of my  book
 some work here
+
+
+i edit page 2 after i commit it
+
+
